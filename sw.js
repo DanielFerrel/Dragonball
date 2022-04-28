@@ -38,7 +38,6 @@ self.addEventListener("install", (e) => {
       "/Dragonball/img/vegeta2.jpg",
       "/Dragonball/img/vegetaazul.jpg",
       "/Dragonball/img/vegetadios.jpg",
-      "/Dragonball/img/vegetamega.jpg",
       "/Dragonball/img/espera.png",
       "/Dragonball/img/signo.png",
       "/Dragonball/img/error.png",

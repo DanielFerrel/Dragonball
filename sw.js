@@ -7,7 +7,7 @@ self.addEventListener("install", (e) => {
     cache.addAll([
       "/",
       "/index.html",
-      "/css/style.css",
+      "Dragonball/css/style.css",
       "/js/app.js",
       "/sw.js",
       "/js/js.js",
@@ -47,7 +47,7 @@ self.addEventListener("install", (e) => {
       "/img/icons/128x128.png",
       "/img/icons/256x256.png",
       "/img/icons/64x64.png",
-      "/img/goku.png",
+      "/Dragonball/img/goku.png",
       "/img/gokublack.png",
       "/img/kaioshin.png",
       "/img/majinboo.png",
@@ -66,7 +66,7 @@ self.addEventListener("install", (e) => {
       "/css/bootstrap.min.css",
       "/css/bootstrap.min.css.map",
       "/js/bootstrap.bundle.min.js",
-      "/js/bootstrap.bundle.min.js.map",
+      "/Dragonball/js/bootstrap.bundle.min.js.map",
       "/js/jquery.min.js",
       "/manifest.json"
     ]);

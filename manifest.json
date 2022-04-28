@@ -5,9 +5,9 @@
     "background_color": "khaki",
     "theme_color":"darkgrey",
     "display": "standalone",
-    "orientation": "portrait", 
-    "theme_color": "darkgrey", 
-
+    "orientation": "portrait",
+     
+    
     "icons": [{
         "src": "/Dragonball/img/icons/64x64.png",
         "type": "image/png",

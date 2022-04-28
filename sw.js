@@ -54,8 +54,8 @@ self.addEventListener("install", (e) => {
       "/Dragonball/img/icons/96x96.png",
       "/Dragonball/img/icons/128x128.png",
       "/Dragonball/img/icons/256x256.png",
-      "/Dragonball/img/icons/64x64.png",
       "/Dragonball/img/goku.png",
+      "/Dragonball/img/dende.png",
       "/Dragonball/img/gokublack.png",
       "/Dragonball/img/kaioshin.png",
       "/Dragonball/img/majinboo.png",
@@ -63,6 +63,7 @@ self.addEventListener("install", (e) => {
       "/Dragonball/img/vegeta.png",
       "/Dragonball/img/picoro.png",
       "/Dragonball/img/trunks.png",
+      "/Dragonball/img/bola2.png",
     ]);
   });
 

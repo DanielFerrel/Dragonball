@@ -9,19 +9,19 @@
     "theme_color": "darkgrey", 
 
     "icons": [{
-        "src": "img/icons/64x64.png",
+        "src": "/Dragonball/img/icons/64x64.png",
         "type": "image/png",
         "sizes": "64x64"
      }, {
-        "src": "img/icons/96x96.png",
+        "src": "/Dragonball/img/icons/96x96.png",
         "type": "image/png",
         "sizes": "96x96"
      }, {
-        "src": "img/icons/128x128.png",
+        "src": "/Dragonball/img/icons/128x128.png",
         "type": "image/png",
         "sizes": "128x128"
      }, {
-        "src": "img/icons/256x256.png",
+        "src": "/Dragonball/img/icons/256x256.png",
         "type": "image/png",
         "sizes": "256x256"
      }]

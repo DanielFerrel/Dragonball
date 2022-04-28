@@ -94,92 +94,92 @@ transformacion.change(() => {
   
   switch (transformacion.val()) {
     case "1":
-      imagen.attr("src", "img/goku.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/goku.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "2":
-      imagen.attr("src", "img/goku2.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/goku2.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "3":
-      imagen.attr("src", "img/goku3.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/goku3.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "4":
-      imagen.attr("src", "img/goku4.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/goku4.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "5":
-      imagen.attr("src", "img/gokudios.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/gokudios.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "6":
-      imagen.attr("src", "img/gokuazul.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/gokuazul.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "7":
-      imagen.attr("src", "img/vegeta.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/vegeta.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "8":
-      imagen.attr("src", "img/vegeta2.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/vegeta2.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "9":
-      imagen.attr("src", "img/vegetadios.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/vegetadios.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "10":
-      imagen.attr("src", "img/vegetaazul.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/vegetaazul.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "11":
-      imagen.attr("src", "img/krilin.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/krilin.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "12":
-      imagen.attr("src", "img/trunks.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/trunks.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "13":
-      imagen.attr("src", "img/trunks2.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/trunks2.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "14":
-      imagen.attr("src", "img/picolo.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/picolo.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "15":
-      imagen.attr("src", "img/dende.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/dende.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "16":
-      imagen.attr("src", "img/majinbuu.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/majinbuu.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "17":
-      imagen.attr("src", "img/buu.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/buu.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "18":
-      imagen.attr("src", "img/superbuu.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/superbuu.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "19":
-      imagen.attr("src", "img/majinbuumalo.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/majinbuumalo.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
     case "20":
-      imagen.attr("src", "img/blackgoku.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/blackgoku.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "21":
-      imagen.attr("src", "img/blackgokurosa.jpg");
-      imagen2.attr("src", "img/mayor.png");
+      imagen.attr("src", "/Dragonball/img/blackgokurosa.jpg");
+      imagen2.attr("src", "/Dragonball/img/mayor.png");
       break;
     case "22":
-      imagen.attr("src", "img/kaioshin.jpg");
-      imagen2.attr("src", "img/menor.png");
+      imagen.attr("src", "/Dragonball/img/kaioshin.jpg");
+      imagen2.attr("src", "/Dragonball/img/menor.png");
       break;
 
     default:

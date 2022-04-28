@@ -42,6 +42,19 @@ self.addEventListener("install", (e) => {
       "img/espera.png",
       "img/signo.png",
       "img/error.png",
+      "img/icons/64x64.png",
+      "img/icons/96x96.png",
+      "img/icons/128x128.png",
+      "img/icons/256x256.png",
+      "img/icons/64x64.png",
+      "img/goku.png",
+      "img/gokublack.png",
+      "img/kaioshin.png",
+      "img/majinboo.png",
+      "img/krilin.png",
+      "img/vegeta.png",
+      "img/picoro.png",
+      "img/trunks.png",
     ]);
   });
 

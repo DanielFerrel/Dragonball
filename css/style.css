@@ -1,0 +1,105 @@
+.fila{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 600px;
+}
+
+
+
+body{
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#img-1{
+    width: 100%;
+    height: auto;
+    min-width: 50px;
+    max-width: 100px;
+  
+    
+   
+}
+
+#img-2{
+    width: 100%;
+    height: auto; 
+    max-width: 100px;
+    min-width: 50px;
+
+}
+
+
+.tittle{
+    text-align: center;
+    color: black;
+    color: darkgrey;
+    
+
+}
+
+.titulo{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 10px;
+
+}
+
+.content{
+    text-align: center;
+    align-items: center;
+}
+
+/* estilos personajes -------------------------------------------*/
+
+.info{
+    text-align: justify;
+    
+
+}
+
+.foto{
+    width: 80%;
+    height: auto;
+    max-width: 350px;
+    max-height: auto;
+   padding-bottom: 15px;
+   border-radius: 50px;
+}
+
+.content-2{
+    background-color: beige;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+   
+}
+
+.imagesP{
+    width: 100%;
+    height: auto;
+    max-width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
